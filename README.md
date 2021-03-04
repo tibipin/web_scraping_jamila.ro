@@ -1,4 +1,4 @@
-# webscrape_jamila.ro
+# Jamila.Ro Web Scraper
 
 Jamila is one of the most famous romanian cooks online.
 I've made this webscraper because I'm tired of not knowing what to cook every week. 
