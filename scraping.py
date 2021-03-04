@@ -43,4 +43,4 @@ for i in df_master.iterrows():
 
 
 df = pandas.merge(df_ingredients, df_master, how='inner', left_on='Linkuri', right_on='Linkuri')
-df.to_excel('test.xlsx')
+df.to_excel('retete.xlsx', index=False)
